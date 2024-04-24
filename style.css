@@ -1,3 +1,7 @@
+.menu_link {
+    text-decoration: none;
+}
+
 .super-heading {
     border-bottom: 1px solid #000;
 }
@@ -17,4 +21,8 @@
     text-align: center;
     color: orange;
     text-transform: uppercase;
+}
+
+.image {
+    width: 50%;
 }
