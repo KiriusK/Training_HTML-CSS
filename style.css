@@ -7,11 +7,6 @@
 .header {
     color: white;
     background-color: #4caf50;
-}
-
-.super-heading {
-    font-weight: bold;
-    font-size: 30px;
     text-align: center;
 }
 
@@ -19,6 +14,14 @@
     text-decoration: none;
     color: white;
 }
+
+
+.title {
+    font-weight: bold;
+    font-size: 30px;
+    text-align: center;
+}
+
 
 .heading {
     font-size: 24px;
